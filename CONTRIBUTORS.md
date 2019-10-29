@@ -417,7 +417,7 @@
 - Github: https://github.com/MorkWood2
 
 ### Dorian Grove
--Photo: N/A
--Location: Philadelphia, PA
--Bio: Aspiring jack of all trades in developing and coding ;)
--Github: https://github.com/Dor34
+- Photo: N/A
+- Location: Philadelphia, PA
+- Bio: Aspiring jack of all trades in developing and coding ;)
+- Github: https://github.com/Dor34
